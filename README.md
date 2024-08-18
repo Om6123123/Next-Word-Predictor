@@ -12,5 +12,4 @@ Key features of the project include:
 
 ## Authors
 - Raul Om Deepak
-- Rudra Panch
 - Rachit Kumar
